@@ -1,3 +1,5 @@
 Name: Amelia Rahman
 Address: Sukabumi
 Job: Backend Engineer
+Hobby: Reading and Writing
+Gender: Female
